@@ -8,3 +8,10 @@ Developer Notes
 
 To run on your own device, clone the project, navigate into the directory RecipesForAll, and run "npm install". 
 Dependencies you may need to add include Async Storage. I plan to add other dependencies as well. 
+
+**Screenshots **
+<img width="310" alt="Screen Shot 2021-12-03 at 5 47 08 PM" src="https://user-images.githubusercontent.com/80415110/145694756-e0d2c45a-0b98-4981-966f-0c5a463f04a5.png">
+<img width="311" alt="Screen Shot 2021-12-03 at 5 47 20 PM" src="https://user-images.githubusercontent.com/80415110/145694759-d7fb49b2-5bd7-4db5-86e2-9cd16e67cb5a.png">
+<img width="311" alt="Screen Shot 2021-12-03 at 5 47 40 PM" src="https://user-images.githubusercontent.com/80415110/145694761-61e68325-f36b-489f-8312-562bda9a9629.png">
+<img width="328" alt="Screen Shot 2021-12-03 at 5 48 00 PM" src="https://user-images.githubusercontent.com/80415110/145694767-71e999c5-5481-49cc-8a9e-5cf79cfcfdb2.png">
+<img width="319" alt="Screen Shot 2021-12-03 at 5 48 23 PM" src="https://user-images.githubusercontent.com/80415110/145694769-269ad552-72a5-4843-8026-70e38a890e0a.png">
